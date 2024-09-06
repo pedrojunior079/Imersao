@@ -1,1 +1,2 @@
-alert("VueJs");
+alert(dados);
+console.log(dados);
